@@ -15,7 +15,7 @@ strategies and analyzing how they behave under different circumstances.
 
 This is a Bachelor's Thesis written in 2024 by Piotr Blinowski, Szymon Mrozicki,
 Szymon Potrzebowski and Karol Wąsowski, under the supervision of Janina
-Daszkiewicz-Mincel at the University of Warsaw's Faculty of Mathematics,
+Daszkiewicz-Mincel Ph.D. at the University of Warsaw's Faculty of Mathematics,
 Computer Science and Mechanics.
 
 If you're looking for the simulator that we built as part of the project,
